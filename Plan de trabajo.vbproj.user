@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="anexo1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="anexo2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="anexo3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="autoridadespart.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="autorides.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="celula.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="celulafor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="colectivo1.0.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="colectivos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="datos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="datos_r.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="in_datos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="lugar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="particularidades.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
